@@ -34,6 +34,18 @@ Some videos of gameplay and shaders: https://drive.google.com/file/d/1Tkv_L1GJ7R
 ## Chicken Block | EGaDS Game Jam 2018
 A simple platformer made in Unity. Reflect projectiles at enemies to fend them off.
 
+## Nature Walk | OpenGL Demo
+
+More of a technical graphics demonstration than game. A calm nature experience programmed using OpenGL and GLSL. The terrain is procedurally generated with Perlin noise. The user can move around the scene and also control the strength and direction of the wind that animates the grass. The water is shaded realistically with transparency and reflection of the skybox.
+
+This project was a final project for Professor Vouga's Graphics Honors class (CS 378H) at UT Austin, where we were given the opportunity to propose our own project and implement it.
+
+I worked on the wind animations, realistic water shading, and skyboxes.
+
+Made with C++ and GLSL.
+
+https://docs.google.com/presentation/d/1qE4qrkC24zm4t4PeofXETbA-o24iMPkr_XG9JMaaQOw/
+
 ## FaceFeud | HackTX 2017
 
 Repository: https://github.com/mindietea/FACEFEUD_HackTX
