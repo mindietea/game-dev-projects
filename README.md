@@ -7,7 +7,7 @@ Created for CZ 4001: Virtual and Augmented Reality at Nanyang Technological Univ
 
 The small demo of this game I created made me think further about how a concept like this could be expanded-- it could be a good way to explore and teach semantics. It is also a game that allows for creative expression, which I would love to expand to a combat-based card game.
 
-This game was created with Vuforia in Unity. Check out a poor quality demo video here! https://drive.google.com/file/d/1I8Bi9EIvZyASwqEw6DjxvzSM7-VA5iUG/view?usp=sharing
+This game was created with Vuforia in Unity. Check out a poor quality demo video here! https://drive.google.com/file/d/1tn1yTRU-03WeeUBqo04o250Q4ivLTM4G/view?usp=sharing
 
 ## "Sword and Sorcery" | Virtual Reality RPG
 
