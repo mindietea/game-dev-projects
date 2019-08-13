@@ -1,6 +1,14 @@
 # game-dev-projects
 A listing of all my game dev-related projects. I primarily am a programmer for these projects. I also love designing games and organizing their production. Listed from newest to oldest.
 
+## "Card Forge: Market Day" | Augmented Reality Card Game
+
+Created for CZ 4001: Virtual and Augmented Reality at Nanyang Technological University. This was an individual project where I wanted to focus on using augmented reality to create an interesting design for a video game. The idea is that cards are something physical and satisfying, and it would be cool to augment the reality of cards with something magical. This game has you as a magical merchant satisfying the particular requests of customers-- maybe someone is hungry and wants a large meal, or needs something discreet to assassinate someone with. You satisfy these requests by combining cards that cast spells with cards that represent objects-- for example you might cast a "Maximize" spell on a "Ham" card to make a big ham and really make the hungry customer happy. The cards have objects on them and spells also augment the visual effects of the cards.
+
+The small demo of this game I created made me think further about how a concept like this could be expanded-- it could be a good way to explore and teach semantics. It is also a game that allows for creative expression, which I would love to expand to a combat-based card game.
+
+This game was created with Vuforia in Unity. Check out a poor quality demo video here! https://drive.google.com/file/d/1I8Bi9EIvZyASwqEw6DjxvzSM7-VA5iUG/view?usp=sharing
+
 ## "Sword and Sorcery" | Virtual Reality RPG
 
 Repository: https://github.com/mindietea/SwordAndSorcery
