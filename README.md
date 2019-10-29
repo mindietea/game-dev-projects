@@ -1,6 +1,8 @@
 # game-dev-projects
 A listing of all my game dev-related projects. I primarily am a programmer for these projects. I also love designing games and organizing their production. Listed from newest to oldest.
 
+You can also see my itch page with some small games here: https://impuuuu.itch.io/
+
 ## "Card Forge: Market Day" | Augmented Reality Semantic Card Game
 
 Created for CZ 4001: Virtual and Augmented Reality at Nanyang Technological University. This was an individual project where I wanted to focus on using augmented reality to create an interesting design for a video game. The idea is that cards are something physical and satisfying, and it would be cool to augment the reality of cards with something magical. This game has you as a magical merchant satisfying the particular requests of customers-- maybe someone is hungry and wants a large meal, or needs something discreet to assassinate someone with. You satisfy these requests by combining cards that cast spells with cards that represent objects-- for example you might cast a "Maximize" spell on a "Ham" card to make a big ham and really make the hungry customer happy. The cards have objects on them and spells also augment the visual effects of the cards. The way your wares are scored is by semantics-- so several stats on the cards decide how well you fulfill the request, like "deadliness" or "grandeur." Spell cards can add modifiers to base stats, either by being multipliers or additions. There are also discrete tags on objects, like "edible" or "wearable" that are important to certain requests.
