@@ -1,5 +1,5 @@
 # game-dev-projects
-A listing of all my game dev-related projects. I primarily am a programmer for these projects. I also love designing games and organizing their production. Listed from newest to oldest.
+A listing of all my game dev-related projects. I primarily am a programmer for these projects. I also love designing games and organizing their production.
 
 You can also see my itch page with some small games here: https://impuuuu.itch.io/
 
