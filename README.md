@@ -3,6 +3,28 @@ A listing of all my game dev-related projects. I primarily am a programmer for t
 
 You can also see my itch page with some small games here: https://impuuuu.itch.io/
 
+## "Return: Into Darkness" | UT Game Jam 2019 Best Overall
+
+Created for the UT Game Jam 2019 with the theme "Return." This was created with a group of students where I lead the design, directed art, and helped programmed the game.
+
+"Return: Into Darkness" is a platformer in which the player must retrieve something from the end of the tunnel and return home. Darkness closes in periodically, and so the player must return to be safe at home when this happens. Venture out to gather resources to build power-ups that help you get further and further into the tunnel.
+
+I really enjoyed creating the design concept for this game, and with all my past jam experiences could scope it properly. We ended up making a pretty polished short game, with complete art assets, narrative, and even a tutorial.
+
+Play it here: https://impuuuu.itch.io/return-into-darkness
+
+## "Heritage" | Global Game Jam 2018 Austin - 1st Place Winner
+
+Created for the Global Game Jam 2018 Austin site. The theme was "Transmission."
+
+Recycle your life and keep improving to defeat an ancient evil. In "Heritage," you fight a monster that is much stronger you where you constantly die trying to defeat it. However, you pass on your power to a new heir with their own strengths and weaknesses generation after generation. Eventually, the collective power becomes great enough for you to defeat the bullet-hell beast.
+
+I led design and storyboarding of the game. I also worked on programming the overall gameplay flow, UI, and player stats.
+
+Made with Unity2D and C#.
+
+https://globalgamejam.org/2018/games/heritage-0
+
 ## "Card Forge: Market Day" | Augmented Reality Semantic Card Game
 
 Created for CZ 4001: Virtual and Augmented Reality at Nanyang Technological University. This was an individual project where I wanted to focus on using augmented reality to create an interesting design for a video game. The idea is that cards are something physical and satisfying, and it would be cool to augment the reality of cards with something magical. This game has you as a magical merchant satisfying the particular requests of customers-- maybe someone is hungry and wants a large meal, or needs something discreet to assassinate someone with. You satisfy these requests by combining cards that cast spells with cards that represent objects-- for example you might cast a "Maximize" spell on a "Ham" card to make a big ham and really make the hungry customer happy. The cards have objects on them and spells also augment the visual effects of the cards. The way your wares are scored is by semantics-- so several stats on the cards decide how well you fulfill the request, like "deadliness" or "grandeur." Spell cards can add modifiers to base stats, either by being multipliers or additions. There are also discrete tags on objects, like "edible" or "wearable" that are important to certain requests.
