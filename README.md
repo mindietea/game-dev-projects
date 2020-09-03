@@ -1,6 +1,14 @@
 # game-dev-projects
 A listing of all my game dev-related projects. I primarily am a programmer for these projects. I also love designing games and organizing their production.
 
+## "Awry" | GMTK Jam 2020 - #116 out of 5397
+
+Created for GMTK Game Jam 2020 with the theme "Out of control."
+
+"Awry" is a cute, lil bit goofy game where you must keep 4 RPG heroes from destroying each other when they become possessed by the Big Bad Final Boss.
+
+Play it here: https://impuuuu.itch.io/awry
+
 ## "Realm of the Lost Socks" | Global Game Jam 2020
 
 Created for the Global Game Jam 2020 Austin site with the theme "Repair."
