@@ -1,15 +1,23 @@
 # game-dev-projects
 A listing of all my game dev-related projects. I primarily am a programmer for these projects. I also love designing games and organizing their production.
 
-You can also see my itch page with some small games here: https://impuuuu.itch.io/
+## "Realm of the Lost Socks" | Global Game Jam 2020
 
-## "Return: Into Darkness" | UT Game Jam 2019 Best Overall
+Created for the Global Game Jam 2020 Austin site with the theme "Repair."
+
+"Realm of the Lost Socks" is a local co-op rhythm game where you play as one of the sock fairies working to "re-pair" lost socks with their righful partner. Hectic, colorful, cute, and short! See how many points you can score with a friend, or try your hand at controlling both characters at once (spoiler: it's hard).
+
+This game was made with love among a group of old and new friends. It's also a sentimental game for me, since it was my last game jam of college. I really wanted to try creating a co-op action rhythm game and it turned out to actually be a fun, challenging game to play. Not to mention super cute!
+
+Play it here: https://impuuuu.itch.io/realm-of-the-lost-socks
+
+## "Return: Into Darkness" | UT Game Jam 2019 - Best Overall
 
 Created for the UT Game Jam 2019 with the theme "Return." This was created with a group of students where I lead the design, directed art, and helped programmed the game.
 
 "Return: Into Darkness" is a platformer in which the player must retrieve something from the end of the tunnel and return home. Darkness closes in periodically, and so the player must return to be safe at home when this happens. Venture out to gather resources to build power-ups that help you get further and further into the tunnel.
 
-I really enjoyed creating the design concept for this game, and with all my past jam experiences could scope it properly. We ended up making a pretty polished short game, with complete art assets, narrative, and even a tutorial.
+I really enjoyed creating the design concept for this game, and from my past jam experiences could scope it properly. We ended up making a pretty polished short game, with complete art assets, narrative, and even a tutorial.
 
 Play it here: https://impuuuu.itch.io/return-into-darkness
 
