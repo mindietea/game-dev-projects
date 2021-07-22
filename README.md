@@ -1,5 +1,5 @@
 # game-dev-projects
-A listing of all my game dev-related projects. I primarily am a programmer for these projects. I also love designing games and organizing their production.
+A listing of all my game dev-related projects. I primarily am a programmer for these projects. I also love designing the main concept/exact mechanics and organizing their production.
 
 ## "Awry" | GMTK Jam 2020 - #116 out of 5397
 
@@ -103,6 +103,12 @@ A web game that uses your face and emotions as a controller for a video game. Cr
 This was a solo side project and quick implementation a fun idea I had for a game. The game will periodically capture an image of you from your laptop camera and send it to Microsoft's Emotion API for analysis. An angry face will create an attack, and a sad face will create a defense.
 
 Made with Javascript and Microsoft's Emotion API.
+
+## Lone | Writing + Game project
+
+A narrative-focused game with deeply personal themes.
+
+I wrote the narrative as well as the code, and worked with an artist and musician. Written for a writing class at the Nanyang Technological University during my study abroad in Singapore.
 
 ## Shroom Game | EGaDS Game Jam 2016
 Point-and-click, grow mushrooms using spores collected from platformer levels. My first Unity game and first game in general.
