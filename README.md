@@ -5,7 +5,7 @@ A listing of all my game dev-related projects. I primarily am a programmer for t
 
 Created for GMTK Game Jam 2020 with the theme "Out of control."
 
-"Awry" is a cute, lil bit goofy game where you must keep 4 RPG heroes from destroying each other when they become possessed by the Big Bad Final Boss.
+"Awry" is a cute, lil bit goofy game where you must keep 4 RPG heroes from destroying each other when they become possessed by the Big Bad Final Boss. I programmed, designed, and wrote. @hexxagon and @StevenColling made the wonderful art.
 
 Play it here: https://impuuuu.itch.io/awry
 
